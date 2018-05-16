@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "en-US"
@@ -99,9 +99,9 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Hung"
-  avatar           : https://pbs.twimg.com/profile_images/976253279536467968/KJeaQq30_400x400.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Imagineer"
-  location         : "Present"
+  avatar           : "https://pbs.twimg.com/profile_images/976253279536467968/KJeaQq30_400x400.jpg"
+  bio              : "Imagineer. <br />\"Realizing dreams with consciousness, compassion and intention\""
+  location         : "Decentralized Presence"
   email            : #kevhung11@gmail.com
   uri              : 
   home             :  # null (default), "absolute or relative url to link to author home"
