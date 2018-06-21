@@ -1,9 +1,9 @@
 ---
-title: "Storybook Wish List"
-layout: single
-date: 2018-05-16
-tags: book list
+title: "Books"
+layout: archive
+permalink: /Books/
 comments: true
+author_profile: true
 ---
 
 I love books, because once upon a time, a special book said it loved me first!
