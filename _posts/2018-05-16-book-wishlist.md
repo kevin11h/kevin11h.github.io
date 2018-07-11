@@ -7,16 +7,16 @@ comments: true
 ---
 
 <p>
-I love books, because once upon a time, some special book said "I love you" first.
+I love books, because once upon a time a young boy finds, some special storybook who spoke to him first, "I love you"
 </p>
 
-<h1>Miracles = Meaningfulness + Work</h1>
+<h1>Miracles = Meaning + Work</h1>
 
 <p>
-When one finds spirituality in business, meaning in work, miracles occur
+When one senses why and how, heart and mind, spirituality and business, meaning and work, miracles occur.
 </p>
 
-> Miracles happen in everyday life when we realize that the magical moments are mixed in the mundane. 
+> Miracles happen in life everyday when we realize that the magical moments are mixed with the mundane. 
 
 <h3>Spiritual</h3>
 + <a target="_blank" href="https://www.amazon.com/gp/product/1537196472/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1537196472&linkCode=as2&tag=weblog0c7-20&linkId=89414aea86e82a133c5f510d9f52ac77">Tao Te Ching</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=weblog0c7-20&l=am2&o=1&a=1537196472" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
